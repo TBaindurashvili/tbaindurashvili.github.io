@@ -35,3 +35,12 @@ footer a{color:var(--muted);margin-right:16px}
 .doc h1{font-size:38px}
 .doc h2{font-size:22px;margin-top:36px}
 .doc p,.doc li{color:#2f3331}
+.doc .meta{color:var(--muted);font-size:15px;margin-top:-8px}
+.doc .note{margin:24px 0}
+.doc table{border-collapse:collapse;width:100%;margin:16px 0;font-size:15px;background:#fff}
+.doc th,.doc td{border:1px solid var(--line);padding:8px 10px;text-align:left}
+.list-guides{display:grid;gap:16px;margin-top:24px}
+.list-guides a.card{text-decoration:none;color:var(--ink);display:block}
+.list-guides a.card:hover{border-color:var(--accent)}
+.list-guides .card h3{color:var(--ink)}
+.nav nav a{white-space:nowrap}
